@@ -1,0 +1,33 @@
+query result: 
+
+version 1.4
+
+VENDOR NVIDIA
+
+EXTENSIONS:
+EGL_NV_system_time 
+EGL_KHR_surfaceless_context 
+EGL_KHR_image 
+EGL_KHR_image_base 
+EGL_KHR_gl_texture_2D_image 
+EGL_KHR_gl_texture_cubemap_image 
+EGL_KHR_gl_renderbuffer_image 
+EGL_KHR_config_attribs 
+EGL_KHR_fence_sync 
+EGL_NV_sync 
+EGL_KHR_reusable_sync 
+EGL_KHR_create_context 
+EGL_EXT_create_context_robustness 
+EGL_KHR_stream 
+EGL_KHR_stream_fifo 
+EGL_KHR_stream_producer_eglsurface 
+EGL_KHR_stream_consumer_gltexture 
+EGL_NV_stream_sync 
+EGL_KHR_get_all_proc_addresses 
+EGL_IMG_context_priority 
+EGL_NV_post_sub_buffer 
+EGL_EXT_output_base 
+EGL_KHR_image_pixmap 
+EGL_EXT_buffer_age
+
+CLIENT_APIS: OpenGL_ES
